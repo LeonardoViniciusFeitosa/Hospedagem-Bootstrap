@@ -1,0 +1,7 @@
+body{
+    background-color: #F1F1F1;
+}
+
+.btn{
+    transition: all 0.2s ease;
+}
